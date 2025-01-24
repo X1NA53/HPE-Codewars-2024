@@ -1,0 +1,2 @@
+ROUTE: Los Angeles:Mesa:Las Vegas:San Juan:Madison = 9740
+RE-ROUTE: Los Angeles:Las Vegas:Mesa:Madison:San Juan = 6535

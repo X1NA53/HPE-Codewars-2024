@@ -1,0 +1,2 @@
+ROUTE: San Jose:Charlotte:Garland:Nashville:New York City:Arlington:Garland:Stockton:Henderson:Orlando = 15774
+RE-ROUTE: San Jose:Stockton:Henderson:Arlington:Garland:Garland:Nashville:Orlando:Charlotte:New York City = 5988

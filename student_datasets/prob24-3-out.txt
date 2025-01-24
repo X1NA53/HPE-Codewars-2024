@@ -1,0 +1,49 @@
+POP_AgoraHills_DOJA CAT.mp3
+POP_BeautifulThings_BENSON BOONE.mp3
+POP_Can'tGetEnough_JENNIFER LOPEZ.mp3
+POP_CruelSummer_TAYLOR SWIFT.mp3
+POP_Everybodyfeat.LilUziVert_NICKI MINAJ.mp3
+POP_FallInLoveAgain_P1HARMONY.mp3
+POP_Feather_SABRINA CARPENTER.mp3
+POP_FixThisfeat.BryceVine_OLIVIA LUNNY.mp3
+POP_GetHimBack!_OLIVIA RODRIGO.mp3
+POP_Greedy_TATE MCRAE.mp3
+POP_Houdini_DUA LIPA.mp3
+POP_IKNOW_TRAVIS SCOTT.mp3
+POP_IsItOverNow(Taylor'sVersion)_TAYLOR SWIFT.mp3
+POP_JChrist_LIL NAS X.mp3
+POP_LoseControl_TEDDY SWIMS.mp3
+POP_MurderOnTheDancefloor_SOPHIE ELLISBEXTOR.mp3
+POP_NotMyFault_RENEE RAPP.mp3
+POP_NotThe1975_KNOX.mp3
+POP_OnMyMama_VICTORIA MONET.mp3
+POP_OneOfTheGirlsfeat.JENNIE_THE WEEKND.mp3
+POP_PaintTheTownRed_DOJA CAT.mp3
+POP_RichBabyDaddyfeat.SexyyRed_DRAKE.mp3
+POP_Selfish_JUSTIN TIMBERLAKE.mp3
+POP_StandingNextToYou_JUNG KOOK & USHER.mp3
+POP_StickSeason_NOAH KAHAN.mp3
+POP_Strangers_KENYA GRACE.mp3
+POP_StrongEnoughfeat.B.Zimmerman_JONAS BROTHERS.mp3
+POP_TOOMUCH_KID LAROI, JUNGKOOK, CENTRAL CEE.mp3
+POP_Thinkin'BoutMe_MORGAN WALLEN.mp3
+POP_Water_TYLA.mp3
+POP_XXL_LANY.mp3
+POP_Yes,And_ARIANA GRANDE.mp3
+POP_Yes,I'mAMess_AJR.mp3
+COUNTRY_CruelSummer_TAYLOR SWIFT.mp3
+COUNTRY_IRememberEverythingfeat.KM_ZACH BRYAN.mp3
+COUNTRY_IsItOverNow(Taylor'sVersion)_TAYLOR SWIFT.mp3
+COUNTRY_LoseControl_TEDDY SWIMS.mp3
+COUNTRY_MyLoveMineAllMine_MITSKI.mp3
+COUNTRY_NotThe1975_KNOX.mp3
+COUNTRY_SaveMe(withLaineyWilson)_JELLY ROLL.mp3
+COUNTRY_Thinkin'BoutMe_MORGAN WALLEN.mp3
+FOLK_CruelSummer_TAYLOR SWIFT.mp3
+FOLK_FixThisfeat.BryceVine_OLIVIA LUNNY.mp3
+FOLK_IsItOverNow(Taylor'sVersion)_TAYLOR SWIFT.mp3
+FOLK_MurderOnTheDancefloor_SOPHIE ELLISBEXTOR.mp3
+FOLK_StickSeason_NOAH KAHAN.mp3
+DISCO_Houdini_DUA LIPA.mp3
+DISCO_MurderOnTheDancefloor_SOPHIE ELLISBEXTOR.mp3
+DISCO_NotMyFault_RENEE RAPP.mp3

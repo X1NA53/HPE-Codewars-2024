@@ -1,0 +1,13 @@
+6
+noun=whisper,car,laundry
+place=island,upstairs,racetrack
+adjective=understated,fast,sublime
+color=mauve,blue,maroon
+food=pizza,stir-fry,cake
+ing-verb=singing,yodeling,dreaming
+Yesterday, my friends and I went to the <PLACE>, and there
+was a <COLOR> <NOUN> that we all admired. But then, some
+guy started <ING-VERB> in a very <ADJECTIVE> way. So my
+friends and I left and we ate <ADJECTIVE> <FOOD> at a
+restaurant near the <PLACE>.
+THE END.

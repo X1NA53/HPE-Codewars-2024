@@ -1,0 +1,6 @@
+5
+Asok 16 3
+Brenda 17 11
+Cariana 15 9
+Duc 17 0
+Ezhno 15 6

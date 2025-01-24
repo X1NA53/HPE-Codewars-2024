@@ -1,0 +1,10 @@
+Johnny Depp, 1486 N Sweetzer Ave, Los Angeles, CA, 90069
+Kanye West, 24895 Long Valley Rd, Hidden Hills, CA, 91302
+Brad Pitt, 5769 Briarcliff Rd, Los Angeles, CA, 90068
+Halle Berry, 9150 Wilshire Boulevard #350, Las Vegas, Nevada, 89106
+Alyssa Milano c/o William Morris Agency, 151 El Camino Drive, Beverly Hills, CA, 90211
+Dr. Dre, 12780 Chalon Rd, Los Angeles, CA, 90049
+Tom Cruise, 14755 Ventura Boulevard #1-710, Sherman Oaks, CA, 91403
+Drew Barrymore, 1122 S. Robertson Boulevard #15, Los Angeles, CA, 9035
+END
+

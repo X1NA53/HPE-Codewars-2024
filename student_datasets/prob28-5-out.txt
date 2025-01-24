@@ -1,0 +1,2 @@
+ROUTE: Boise:San Jose:Irvine:Las Vegas:Henderson:Glendale:Lubbock:Laredo:Tulsa:St. Paul:Milwaukee:Chicago:Louisville:Lexington:Raleigh = 7713
+OPTIMUM

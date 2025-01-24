@@ -1,0 +1,8 @@
+hills SORTED
+green VOW-SORTED
+jar CON-SORTED
+keyboard UNSORTED
+mouse CON-SORTED
+knife UNSORTED
+chair CON-SORTED
+board UNSORTED

@@ -1,0 +1,50 @@
+query name, age for zipcode="90210" and bald=No
+no results
+query name, zipcode, age, employer for age=65
+"Karna", null, 65, "PennyMac Mortgage Investment Trust"
+null, null, 65, "WisdomTree U.S. SmallCap Quality Dividend Growth Fund"
+"Reagan", null, 65, "CPFL Energia S.A."
+null, "862 95", 65, "Delaware Enhanced Global Dividend"
+query name, age, url for age=11 or beard=FALSE
+"Agretha", 44, "http://omniture.com/venenatis/lacinia/aenean.jsp"
+null, null, "http://hud.gov/donec/ut/dolor/morbi/vel/lectus.json"
+"Loralyn", null, null
+"Cathyleen", null, null
+"Elke", null, "https://youtube.com/et/eros/vestibulum/ac/est/lacinia.json"
+null, 21, "https://bizjournals.com/leo.jpg"
+"Andrea", 17, "http://spotify.com/accumsan/tortor/quis.jpg"
+"Moselle", null, null
+"Jean", 78, "http://themeforest.net/aliquet/maecenas/leo.jpg"
+"Tori", 28, null
+"Darelle", 42, null
+"Ted", 35, null
+"Putnem", 40, "https://eventbrite.com/eget/massa/tempor/convallis.jsp"
+"Bax", 54, "http://arstechnica.com/neque/duis/bibendum.html"
+"Marijo", null, null
+"Ruprecht", 11, "https://dion.ne.jp/pretium/iaculis/justo/in/hac.jsp"
+null, null, "https://army.mil/elementum/in/hac/habitasse/platea/dictumst.js"
+null, null, null
+"Archambault", 68, null
+null, 36, "https://weather.com/semper/est/quam/pharetra.xml"
+"Bella", null, "http://g.co/id/nisl/venenatis/lacinia.xml"
+null, 77, "https://cbc.ca/sagittis/sapien/cum/sociis/natoque/penatibus/et.js"
+null, 33, "https://discovery.com/sapien/in/sapien/iaculis/congue/vivamus.jpg"
+"Tore", 52, "https://oaic.gov.au/risus/dapibus/augue/vel/accumsan/tellus/nisi.png"
+"Jacynth", 19, "http://utexas.edu/aliquet/at/feugiat/non/pretium/quis/lectus.json"
+null, 29, null
+"Tobit", 41, "http://reuters.com/venenatis.aspx"
+"Lexy", null, "https://xrea.com/vestibulum.html"
+"Amabel", null, "http://imdb.com/amet/sapien.aspx"
+"Cassandra", 76, null
+"Sergent", 44, "https://digg.com/volutpat/quam.png"
+"Trista", 14, "https://newyorker.com/cras.json"
+"Tiebold", 71, "http://omniture.com/ac/enim/in.html"
+"Leese", 30, null
+"Vilhelmina", 11, "http://hc360.com/neque.png"
+null, 30, null
+"Giorgi", 17, "http://go.com/sapien/cum/sociis/natoque.aspx"
+null, 24, "http://alexa.com/donec/quis.jpg"
+"Si", 55, "http://nytimes.com/mus/etiam/vel/augue/vestibulum/rutrum.json"
+"Shay", 61, "http://harvard.edu/pede/morbi/porttitor/lorem/id/ligula.html"
+null, null, "http://wufoo.com/pellentesque/eget/nunc/donec/quis/orci.jsp"
+exit

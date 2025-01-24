@@ -1,0 +1,18 @@
+query first_name, last_name, amount for state="California"
+null, "Crichten", 75.24
+"Giraldo", "Sangar", 89.98
+"Zabrina", "Aitchinson", 93.21
+"Ferdie", "Gash", 40.79
+"Basia", "Okie", 79.53
+"Zeke", "Bernard", 9.88
+"George", "Melladew", null
+query state, amount for customer=true and state="New York"
+"New York", null
+"New York", 9.01
+"New York", 28.42
+"New York", 36.35
+"New York", null
+query last_name, amount for state="Virginia" and customer=true
+"Rogliero", 73
+"Crame", 54.74
+exit

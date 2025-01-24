@@ -1,0 +1,5 @@
+files/lots.csv
+query name for age=28 or age=65
+query age, vendor for name="Tori"
+query name, beard for age=76
+exit

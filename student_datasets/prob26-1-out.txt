@@ -1,0 +1,20 @@
+HERO:
+Time-01: 0.0->1.7
+Time-02: 1.7->3.4
+Time-03: 3.4->5.1
+[flashlight used at 5.1]
+Time-04: 5.1->6.8
+Time-05: 6.8->8.5
+[door shut at 8.2]
+Time-06: 8.5->10.2
+MADE IT!
+
+ANIMATRONIC:
+Time-01: -2.1->-0.3
+Time-02: -0.3->1.5
+Time-03: 1.5->3.3
+[blinded, stopped]
+Time-04: blinded
+Time-05: blinded
+Time-06: 3.3->5.1
+MISSED!

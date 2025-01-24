@@ -1,0 +1,5 @@
+files/customer.csv
+query first_name, last_name for customer=true
+query state for customer=false
+query amount for state="California"
+exit

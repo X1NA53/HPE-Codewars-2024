@@ -1,0 +1,1 @@
+Run:1.0m/s, Chase:1.1m/s, Start:-1.0m, Length:11.2m, Exit:11.3m

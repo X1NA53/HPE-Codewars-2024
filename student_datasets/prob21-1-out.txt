@@ -1,0 +1,6 @@
+ghost SORTED
+berry SORTED
+apple VOW-SORTED
+zebra UNSORTED
+merry CON-SORTED
+hippo CON-SORTED

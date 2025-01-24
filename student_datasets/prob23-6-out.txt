@@ -1,0 +1,1 @@
+Hexagon with width 8 height 4

@@ -1,0 +1,5 @@
+files/lots.csv
+query name, age for zipcode="90210" and bald=No
+query name, zipcode, age, employer for age=65
+query name, age, url for age=11 or beard=FALSE
+exit

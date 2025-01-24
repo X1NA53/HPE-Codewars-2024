@@ -1,0 +1,11 @@
+HERO:
+Time-01: 0.0->1.2
+Time-02: 1.2->2.4
+Time-03: 2.4->3.6
+OH NO!
+
+ANIMATRONIC:
+Time-01: -1.5->0.4
+Time-02: 0.4->2.3
+Time-03: 2.3->4.2
+CAUGHT!

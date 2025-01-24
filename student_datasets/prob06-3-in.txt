@@ -1,0 +1,9 @@
+8
+Carrie 17 9
+Mark 16 11
+Daisy 15 0
+Adam 14 5
+John 14 1
+Oscar 15 3
+Anthony 16 7
+Naomi 17 2

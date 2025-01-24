@@ -1,0 +1,13 @@
+query name for age=28 or age=65
+"Karna"
+"Tori"
+null
+"Garvy"
+"Reagan"
+null
+query age, vendor for name="Tori"
+28, "J P Morgan Chase & Co"
+query name, beard for age=76
+"Cassandra", false
+null, null
+exit

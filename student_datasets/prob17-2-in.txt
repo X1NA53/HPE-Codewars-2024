@@ -1,0 +1,15 @@
+4
+name=JackBlack,FozzieBear,Fozzie,Walter
+noun=Muppets,building,top,family
+pronoun=everybody,anybody
+adjective=ashamed,failed,important
+Kermit the Frog: What? You kidnapped <NAME>? That's illegal!
+<NAME>: But Kermit, what's more illegal: briefly inconveniencing Jack Black, or destroying the <NOUN>?
+Kermit the Frog: Kidnapping Jack Black, <NAME>!
+Kermit the Frog: Anyway, listen <PRONOUN>, we've got nothing to be <ADJECTIVE> of. And you know why?
+Well because, thanks to <NAME> here we tried. And if we <ADJECTIVE>, we failed together and to me that's not failing at all.
+And I don't care what <PRONOUN> says, I don't care if no one believes in us because ... I believe. I believe in you.
+And you. And you. You know what's <ADJECTIVE> isn't this <NOUN> or name, it's each other.
+So I say fine, let's just start from the bottom and work our way back up to the <NOUN>.
+Let's all walk out through these doors with our heads held up high, as a <NOUN> because that's what we are.
+THE END.

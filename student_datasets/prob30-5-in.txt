@@ -1,0 +1,4 @@
+files/customer.csv
+query amount, first_name, last_name for state="Texas"
+query first_name for state="Colorado"
+exit

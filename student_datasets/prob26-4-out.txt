@@ -1,0 +1,25 @@
+HERO:
+Time-01: 0.0->1.7
+Time-02: 1.7->3.4
+Time-03: 3.4->5.1
+Time-04: 5.1->6.8
+Time-05: 6.8->8.5
+[door shut at 7.2]
+Time-06: 8.5->10.2
+Time-07: 10.2->11.9
+Time-08: 11.9->13.6
+Time-09: 13.6->15.3
+MADE IT!
+
+ANIMATRONIC:
+Time-01: -1.8->0.0
+Time-02: 0.0->1.8
+Time-03: 1.8->3.6
+Time-04: 3.6->5.4
+Time-05: 5.4->7.2
+[door, stopped]
+Time-06: blocked
+Time-07: blocked
+Time-08: blocked
+Time-09: 7.2->9.0
+MISSED!

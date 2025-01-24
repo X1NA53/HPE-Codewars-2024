@@ -1,0 +1,1 @@
+Run:2.9m/s, Chase:3.1m/s, Start:-6.3m, Length:9.9m, Door:9.1m, Flashlight:3.2m, Exit:10.0m

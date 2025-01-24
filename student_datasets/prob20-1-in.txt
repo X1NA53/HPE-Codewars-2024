@@ -1,0 +1,4 @@
+Mike Wazowski, #193 Scream St. Apt. 5, Monstropolis, MU, 96334-2234
+Strider, 0 Weathertop, Tolkien's Book, Middle Earth, 54321
+S-Man, 1234 A Red and Blue Street, Metropolis, New Krypton, 101010
+END
