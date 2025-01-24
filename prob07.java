@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-public class prob06 {
-    
+public class prob07 {
     public static void main(String[] args) {
-        prob06 p = new prob06();
+        prob07 p = new prob07();
         p.in();
     }
-        
-    private void in() {
+    
+    public void in(){
         Scanner file = new Scanner(getClass().getResourceAsStream("input.txt"));
+        //
     }
 }
