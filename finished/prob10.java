@@ -1,3 +1,4 @@
+package finished;
 import java.util.*;
 
 public class prob10 {
@@ -10,14 +11,16 @@ public class prob10 {
     public void in(){
         Scanner file = new Scanner(getClass().getResourceAsStream("input.txt"));
         ArrayList<Integer> digs = new ArrayList<>();
-        //split??
         while(file.hasNext()){
-            if(file.hasNextInt())
-                digs.add(file.nextInt());
+            String line = file.nextLine();
+            if(!Character.isDigit(line.charAt(0)) && !(line.charAt(0) == '-'))
+                break;
+            String[] spliting = line.split("\\+|=");
+            for (String string : spliting) {
+                digs.add(Integer.parseInt(string));
+            }
         }
         file.close();
-
-        System.out.println(digs);
         check(digs);
     }
 
