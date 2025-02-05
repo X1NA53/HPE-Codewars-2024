@@ -8,3 +8,5 @@ prob 07 -
 prob 08 -
 prob 09 -
 prob 10 - Finished.. questionable?
+prob 11 - eeh??
+prob 12 - def inefficient, set??.. Remove duplicate as adding?
