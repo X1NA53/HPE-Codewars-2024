@@ -15,8 +15,10 @@ prob 14 - done and I'm better than Ian and Connor
     Try-Catch & Clearing non-digits
 prob 15 - done
     StringBuilder
-prob 16 -
-prob 17 -
+prob 16 - BUGGED ?? seems like the most convoluted solution ever
+    Treemaps
+prob 17 - meh??
+    Functionally Queue (as arraylist), MultiMap/Hashmaps, 
 prob 18 -
 prob 19 -
 prob 20 -
