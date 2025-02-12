@@ -16,7 +16,7 @@ prob 14 - done and I'm better than Ian and Connor
 prob 15 - done
     StringBuilder
 prob 16 - BUGGED ?? seems like the most convoluted solution ever
-    Treemaps
+    Treemaps, iterators
 prob 17 - meh??
     Functionally Queue (as arraylist), MultiMap/Hashmaps, 
 prob 18 -

@@ -1,5 +1,6 @@
 
 import java.util.*;
+import java.util.stream.*;
 
 public class prob16 {
     TreeMap<Integer, Integer> map = new TreeMap<>();
@@ -14,7 +15,6 @@ public class prob16 {
 
         while(file.hasNextInt()){
             int input = file.nextInt();
-            System.out.println(input);//TODO
             if(input == 0)
                 break;
             if(map.containsKey(input)){ //If input already present in map
@@ -24,10 +24,16 @@ public class prob16 {
                 map.put(input, 1);
         }
         file.close();
-        
-        Map.Entry<Integer, Integer> trend = returnHighest();
-        Map.Entry<Integer, Integer> follow = returnHighest();
 
+        TreeMap<Object, Object> swap = map.entrySet().stream().collect(Collectors.toMap(Map.Entry::getValue, Map.Entry::getKey, (oldValue, newValue) -> newValue, TreeMap:: new));
+        System.out.println("DONE");
+        System.out.println(map.entrySet());
+        System.out.println(swap);
+        System.out.println(swap);
+        
+        Map.Entry<Integer, Integer> trend = swap.remove(swap.lastKey());
+        Map.Entry<Integer, Integer> follow = returnHighest();
+        System.out.println(trend);
 
         System.out.println(map.entrySet());//TODO
 
@@ -36,8 +42,9 @@ public class prob16 {
     }
 
     public Map.Entry<Integer, Integer> returnHighest(){
-        Map.Entry<Integer, Integer> highest = (Collections.max(map.entrySet(), Map.Entry.comparingByValue()));
-        map.remove(highest.getKey());
-        return highest;
+        // System.out.println(Collections.max(map.entrySet(), Map.Entry.comparingByValue()));
+        // Map.Entry<Integer, Integer> highest = (Collections.sort(map.entrySet(), Map.Entry.comparingByValue()));
+        // map.remove(highest.getKey());
+        return null;
     }
 }
