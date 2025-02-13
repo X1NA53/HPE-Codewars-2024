@@ -18,10 +18,11 @@ prob 15 - done
 prob 16 - seems like the most convoluted solution ever
     Treemaps, sorting maps via stream/collections
 prob 17 - meh??
-    Functionally Queue (as arraylist), MultiMap/Hashmaps, 
+    Functionally Queues (as arraylist), MultiMap/Hashmaps, 
 prob 18 -
 prob 19 -
-prob 20 -
+prob 20 - done
+    Arraylist of Arraylists, line scanner
 prob 21 -
 prob 22 -
 prob 23 -
