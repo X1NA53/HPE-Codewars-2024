@@ -9,6 +9,9 @@ public class prob18 {
 
     public void in(){
         Scanner file = new Scanner(getClass().getResourceAsStream("input.txt"));
+        int[] data = new int[file.nextInt()];
+        int maxY = file.nextInt();
+        file.nextLine();
         //
     }
 }
