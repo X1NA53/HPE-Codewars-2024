@@ -19,7 +19,8 @@ prob 16 - seems like the most convoluted solution ever
     Treemaps, sorting maps via stream/collections
 prob 17 - meh??
     Functionally Queues (as arraylist), MultiMap/Hashmaps, 
-prob 18 -
+prob 18 - done, feels slow
+    read graph via char arrays, 2d array-ish
 prob 19 -
 prob 20 - done
     Arraylist of Arraylists, line scanner
