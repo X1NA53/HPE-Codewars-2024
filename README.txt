@@ -21,7 +21,8 @@ prob 17 - meh??
     Functionally Queues (as arraylist), MultiMap/Hashmaps, 
 prob 18 - done, feels slow
     read graph via char arrays, 2d array-ish
-prob 19 -
+prob 19 - done.. feels meh
+    Modulus division, converting time
 prob 20 - done
     Arraylist of Arraylists, line scanner
 prob 21 -

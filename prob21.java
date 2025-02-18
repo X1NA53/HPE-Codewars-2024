@@ -1,10 +1,9 @@
-
 import java.util.Scanner;
 
-public class prob19 {
+public class prob21 {
     
     public static void main(String[] args) {
-        prob19 p = new prob19();
+        prob21 p = new prob21();
         p.in();
     }
 
