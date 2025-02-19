@@ -1,3 +1,4 @@
+package unfin;
 import java.util.Scanner;
 
 public class prob21 {

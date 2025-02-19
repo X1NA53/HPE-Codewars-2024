@@ -26,7 +26,7 @@ prob 19 - done.. feels meh
 prob 20 - done
     Arraylist of Arraylists, line scanner
 prob 21 -
-prob 22 -
+prob 22 - BUGGED, perhaps use a StringBuilder?
 prob 23 -
 prob 24 -
 prob 25 -
