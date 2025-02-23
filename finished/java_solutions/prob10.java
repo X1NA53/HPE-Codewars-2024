@@ -1,4 +1,4 @@
-package finished;
+package finished.java_solutions;
 import java.util.*;
 
 public class prob10 {
