@@ -1,3 +1,5 @@
+package finished;
+
 import java.util.Scanner;
 
 public class prob22 {
