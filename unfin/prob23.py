@@ -35,9 +35,37 @@ def isSquare(points):
             return False
         if points[2].y != points[3].y:
             return False
+        if points[1].x - points[0].x != points[2].y - points[0].y:
+            return False
         return True
     return False
-        
+
+def isRectangle(points):
+    if points.length() == 4:
+        if points[0].y != points[1].y or points[0].x != points[2].x:
+            return False
+        if points[1].x != points[3].x:
+            return False
+        if points[2].y != points[3].y:
+            return False
+        if points[1].x - points[0].x == points[2].y - points[0].y:
+            return False
+        return True
+    return False
+
+def isParallelogram(points):
+    if points.length() == 4:
+        if points[0].y == points[1].y or points[0].x != points[2].x:
+            return False
+        if points[1].x == points[3].x:
+            return False
+        if points[2].y != points[3].y:
+            return False
+        if points[1].x - points[0].x != points[3].x - points[2].x:
+            return False
+        return True
+    return False
+
 def isPentagon(points):
     if points.length() == 5:
         #no p with same y as p0
