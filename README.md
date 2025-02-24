@@ -2,7 +2,7 @@
 ### By: Connor & Chris (CLHS CS Club)
 
 |Problem #|Notes|
-|---|-----------|
+|:---:|-----------|
 |01||
 |02||
 |03||
