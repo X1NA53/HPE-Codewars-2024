@@ -1,4 +1,4 @@
-package finished;
+package finished.java_solutions;
 
 public class prob00 {
     public static void main(String[] args) {
