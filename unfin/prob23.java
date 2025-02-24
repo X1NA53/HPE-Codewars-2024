@@ -1,6 +1,5 @@
 package unfin;
 import java.util.Scanner;
-import javafx.util.Pair;
 
 public class prob23 {
     
@@ -10,7 +9,7 @@ public class prob23 {
     }
 
     
-    public void input(){
+    public void in(){
         Scanner file = new Scanner(getClass().getResourceAsStream("input.txt"));
     }
 }
