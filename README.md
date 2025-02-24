@@ -24,7 +24,7 @@
 |19|Modulus division, converting time|
 |20|Arraylist of Arraylists, line scanner|
 |21||
-|22|BUGGED, perhaps use a StringBuilder?|
+|22|BUGGED, perhaps use a StringBuilder? Math.round(), converting to float|
 |23||
 |24||
 |25||

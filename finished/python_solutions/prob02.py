@@ -5,8 +5,8 @@ with open("input.txt","r") as file:
     line = file.readline()
 
 #splits string into a list, using " " as delimiter, stores first value in x
-x = line.split(" ")[0]
-y = line.split(" ")[1]
+x = int(line.split(" ")[0])
+y = int(line.split(" ")[1])
 
 #prints computation
 print(x / y * (y + y))
