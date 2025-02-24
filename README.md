@@ -26,7 +26,7 @@
 |21||
 |22|BUGGED, perhaps use a StringBuilder? Math.round(), converting to float|
 |23||
-|24||
+|24|solved in python, STUNNING CODE|
 |25||
 |26||
 |27||
