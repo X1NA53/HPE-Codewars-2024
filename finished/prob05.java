@@ -1,18 +1,18 @@
-package finished.java_solutions;
+package finished;
 import java.util.Scanner;
 
-public class prob04 {
+public class prob05 {
     
     public static void main(String[] args) {
-        prob04 p = new prob04();
+        prob05 p = new prob05();
         p.in();
     }
 
     public void in(){
         Scanner file = new Scanner(getClass().getResourceAsStream("input.txt"));
-        file.useDelimiter("\r\n|" + file.next());
-        while (file.hasNext())
-            System.out.println(file.next());
+        while(file.hasNextInt()){
+            System.out.print((char) file.nextInt());
+        }
         file.close();
     }
 }

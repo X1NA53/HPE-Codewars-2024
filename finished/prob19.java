@@ -1,4 +1,4 @@
-package finished.java_solutions;
+package finished;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

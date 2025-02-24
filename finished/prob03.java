@@ -1,4 +1,4 @@
-package finished.java_solutions;
+package finished;
 import java.util.Scanner;
 
 public class prob03 {
