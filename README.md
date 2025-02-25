@@ -36,7 +36,7 @@
 |21||
 |22| done, perhaps use a StringBuilder?; Math.round(), converting to float|
 |23||
-|24||
+|24|Reading from file directory, removing spaces & capitalizing String|
 |25||
 |26||
 |27||
