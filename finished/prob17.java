@@ -22,7 +22,7 @@ public class prob17 {
 
             if(line.startsWith("THE END."))
                 break;
-            if (i <= cats) {//TODO ??
+            if (i <= cats) {
                 Scanner scanLine = new Scanner(line).useDelimiter("=|,");
                 String cat = scanLine.next();
                 subs.put(cat, new ArrayList<String>());

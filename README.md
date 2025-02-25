@@ -15,7 +15,7 @@
 |10|Finished.. questionable?|
 |11|eeh??|
 |12|def inefficient, set??.. Remove duplicate as adding?|
-|13||
+|13|done|
 |14|Try-Catch & Clearing non-digits|
 |15|StringBuilder|
 |16|seems like the most convoluted solution ever. Treemaps, sorting maps via stream/collections|
@@ -24,9 +24,9 @@
 |19|Modulus division, converting time|
 |20|Arraylist of Arraylists, line scanner|
 |21||
-|22|BUGGED, perhaps use a StringBuilder? Math.round(), converting to float|
+|22| done, perhaps use a StringBuilder?; Math.round(), converting to float|
 |23||
-|24||
+|24|Reading from file directory, removing spaces & capitalizing String|
 |25||
 |26||
 |27||
