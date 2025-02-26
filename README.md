@@ -36,7 +36,7 @@
 |21|||
 |22| done, perhaps use a StringBuilder?; Math.round(), converting to float||
 |23|||
-|24|Reading from file directory, removing spaces & capitalizing String|solved in python: used string manipulation methods and os to get files|
+|24|Reading from file directory, removing spaces & capitalizing String|solved in python: os module to get input, sorta alphabeticly|
 |25|||
 |26|||
 |27|||
