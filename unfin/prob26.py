@@ -7,15 +7,15 @@ class ChaseInformation():
         self.apos = apos
         self.hlength = hlength
         self.exitdistance = exitdistance
-        self.flashlight = flashlight
-        self.sdoor = sdoor
+        self.flashlight = float(flashlight) if flashlight != None else -1
+        self.sdoor = float(sdoor) if sdoor != None else -1
 
         self.ablinded = 0
         self.ablocked = 0
         self.time = 0
         self.pos = 0.0
         self.escaped = False
-        self.caught = True
+        self.caught = False
 
     def doInterval(self):
         self.time += 1 #increment secounds
@@ -41,13 +41,17 @@ class ChaseInformation():
 
 
     def str_of_hero_interval(self):
-        if self.time > 10:
-            return "Time-"+self.time+": "+self.pos-self.speed+"->"+self.pos
+        if self.time > 9:
+            return "Time-"+str(self.time)+": "+str(self.pos-self.speed)+"->"+str(self.pos)
         else:
-            return "Time-"+self.time+": "+self.pos-self.speed+"->"+self.pos
+            return "Time-0"+str(self.time)+": "+str(self.pos-self.speed)+"->"+str(self.pos)
 
     def str_of_animatronic_interval(self):
-        pass
+        if self.time > 9:
+            return "Time-"+str(self.time)+": "+str(self.apos-self.aspeed)+"->"+str(self.apos)
+        else:
+            return "Time-0"+str(self.time)+": "+str(self.apos-self.aspeed)+"->"+str(self.apos)
+
 
 def getInput():
     with open("input.txt","r") as file:
@@ -68,4 +72,9 @@ def getInput():
         CI = ChaseInformation(float(speed),float(aspeed),float(apos),float(hlength),float(exitdistance),flashlight,sdoor)
     return CI
 
-print(getInput().sdoor)
+CI = getInput()
+
+while (CI.caught != True and CI.escaped != True):
+    print("turn")
+    for x in CI.doInterval():
+        print(x)
