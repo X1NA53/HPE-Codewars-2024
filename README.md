@@ -34,11 +34,11 @@
 |19|Modulus division, converting time||
 |20|Arraylist of Arraylists, line scanner||
 |21|||
-|22| done, perhaps use a StringBuilder?; Math.round(), converting to float||
+|22| done, perhaps use a StringBuilder?; Math.round(), converting to float, Leading 0's||
 |23|||
 |24|Reading from file directory, removing spaces & capitalizing String|solved in python: used string manipulation methods and os to get files|
 |25|||
-|26|||
+|26|Pull Double from String using ReplaceAll & regex||
 |27|||
 |28|||
 |29|||
